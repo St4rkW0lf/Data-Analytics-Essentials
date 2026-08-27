@@ -1,62 +1,80 @@
-[b][size=150]Laboratório – Fazer as perguntas certas[/size][/b]
+# Laboratório — Fazer as perguntas certas
 
-[b]Parte 1: Determine um tópico[/b]
+## Parte 1: Determine um tópico
 
-[b]Tópico:[/b]
-A influência da repetição da expressão “Nunca mais” na construção da angústia do narrador no poema [i]O Corvo[/i], de Edgar Allan Poe.
+### Etapa 1: Fazer uma pergunta
 
-[b]Etapa 1: Fazer uma pergunta[/b]
+**Tópico escolhido:**
+A influência da repetição da expressão **“Nunca mais”** na construção da angústia do narrador no poema *O Corvo*, de Edgar Allan Poe.
 
-[b]Pergunta:[/b]
-A repetição de “Nunca mais” ao longo de [i]O Corvo[/i] acompanha o aumento da angústia do narrador?
+**Pergunta:**
 
-[b]Vantagem de determinar a resposta:[/b]
-Determinar a resposta permitirá compreender, por meio da análise de dados textuais, como Edgar Allan Poe utiliza a repetição de uma mesma expressão para desenvolver progressivamente o estado emocional do narrador. Dessa forma, será possível observar o poema não apenas por meio de uma interpretação literária, mas também através de dados que demonstrem a relação entre a repetição da expressão “Nunca mais” e as manifestações de tristeza, perda, medo e desespero presentes no texto.
+> A repetição de “Nunca mais” ao longo de *O Corvo* acompanha o aumento da angústia do narrador?
 
-[b]Hipótese:[/b]
-A repetição de “Nunca mais” acompanha o aumento da angústia do narrador. A hipótese é que, a cada nova ocorrência, as perguntas feitas ao Corvo se tornam mais pessoais e relacionadas à perda de Lenora, fazendo com que a expressão adquira um significado progressivamente mais doloroso para o narrador.
+**Vantagem de determinar a resposta:**
 
-[b]Tipo de análise:[/b]
-A análise descritiva é a mais adequada para investigar essa questão. Ela permitirá organizar e interpretar dados presentes no poema, como a frequência da expressão “Nunca mais”, sua posição nas estrofes, o contexto de cada ocorrência e a frequência de palavras relacionadas a sentimentos como tristeza, perda, medo e desespero.
+Responder a essa pergunta permitirá compreender, por meio da análise de dados textuais, como Edgar Allan Poe utiliza a repetição da expressão “Nunca mais” para desenvolver progressivamente o estado emocional do narrador.
 
-[b]Etapa 2: Determinar os dados necessários[/b]
+A análise permitirá observar o poema não apenas por uma perspectiva literária e subjetiva, mas também por meio de dados, verificando se existe uma relação entre as diferentes ocorrências da expressão e o aumento de sentimentos como tristeza, desespero, sofrimento e angústia.
 
-Para responder à pergunta proposta, os seguintes elementos de dados serão necessários:
+**Hipótese:**
 
-[list]
-[*]Número de ocorrências da expressão “Nunca mais”;
-[*]Estrofe e verso em que cada ocorrência aparece;
-[*]Contexto de cada ocorrência;
-[*]Pergunta ou afirmação feita pelo narrador antes de cada resposta do Corvo;
-[*]Palavras relacionadas à tristeza;
-[*]Palavras relacionadas à morte;
-[*]Palavras relacionadas à perda de Lenora;
-[*]Palavras relacionadas ao medo, sofrimento e desespero;
-[*]Evolução do estado emocional do narrador ao longo das ocorrências.
-[/list]
+A hipótese inicial é que a repetição de “Nunca mais” acompanha o aumento da angústia do narrador. A cada nova ocorrência, as perguntas feitas ao Corvo tornam-se mais pessoais e relacionadas à perda de Lenora, fazendo com que a expressão adquira um significado cada vez mais doloroso para o narrador.
 
-Também poderá ser criado um indicador de intensidade da angústia, utilizando uma escala de 1 a 5, em que 1 representa pouca angústia e 5 representa extremo sofrimento. Esse indicador permitirá comparar a intensidade emocional do narrador em cada ocorrência da expressão “Nunca mais”.
+**Tipo de análise:**
 
-[b]Fontes de dados:[/b]
+A **análise descritiva** é a mais adequada para este projeto, pois serão utilizados dados presentes no próprio poema para identificar e descrever padrões.
 
-As principais fontes que podem ser utilizadas para obter os dados são:
+Entre os dados que poderão ser analisados estão a frequência da expressão “Nunca mais”, sua posição no poema, o contexto de cada ocorrência e a frequência de palavras relacionadas a sentimentos como tristeza, perda, morte e desespero.
 
-[list]
-[*]Project Gutenberg;
-[*]Internet Archive;
-[*]Poetry Foundation;
-[*]Google Books;
-[*]Kaggle.
-[/list]
+---
 
-O próprio texto integral de [i]O Corvo[/i] será a principal fonte de dados do projeto, pois as informações necessárias poderão ser extraídas diretamente do poema.
+### Etapa 2: Determinar os dados necessários
 
-[b][size=130]Questões para Reflexão[/size][/b]
+Para responder à pergunta proposta, serão necessários os seguintes elementos de dados:
 
-[b]1. Por que é importante identificar a pergunta que precisa ser respondida pela análise antes de iniciar o projeto?[/b]
+* Número de ocorrências da expressão **“Nunca mais”**;
+* Estrofe e verso em que cada ocorrência aparece;
+* Contexto de cada ocorrência;
+* Perguntas ou afirmações feitas pelo narrador antes de cada resposta do Corvo;
+* Referências à personagem **Lenora**;
+* Palavras relacionadas à tristeza e ao sofrimento;
+* Palavras relacionadas à morte e à perda;
+* Palavras relacionadas ao medo, desespero e angústia;
+* Evolução do estado emocional do narrador ao longo do poema.
 
-É importante definir a pergunta antes de iniciar a análise porque ela determina quais dados deverão ser coletados e quais informações serão relevantes para o projeto. No caso de [i]O Corvo[/i], definir uma pergunta específica permite direcionar a coleta de dados para as ocorrências da expressão “Nunca mais”, seus respectivos contextos e as palavras relacionadas ao estado emocional do narrador. Dessa maneira, evita-se a coleta de informações desnecessárias e torna-se possível realizar uma análise objetiva e direcionada.
+Para facilitar a análise, as ocorrências de “Nunca mais” poderão ser organizadas em uma tabela contendo o número da ocorrência, sua localização no poema, o contexto e uma classificação do nível de angústia apresentado pelo narrador.
 
-[b]2. Cite algumas fontes de dados abertos para análise que você encontrou ao pesquisar os elementos de dados.[/b]
+Também poderá ser utilizada uma escala de 1 a 5 para representar a intensidade da angústia, sendo:
 
-Algumas fontes de dados que podem ser utilizadas são o Project Gutenberg, Internet Archive, Poetry Foundation, Google Books e Kaggle. Essas fontes disponibilizam textos literários e outros dados que podem auxiliar na identificação das ocorrências de “Nunca mais”, na análise de seus contextos e na realização de uma análise quantitativa das palavras e expressões presentes no poema.
+* **1:** pouca ou nenhuma angústia;
+* **2:** angústia moderada;
+* **3:** angústia elevada;
+* **4:** desespero;
+* **5:** extremo sofrimento.
+
+Dessa maneira, será possível comparar a posição das ocorrências de “Nunca mais” com o estado emocional apresentado pelo narrador e verificar se existe uma tendência de aumento da angústia.
+
+### Fontes de dados
+
+As principais fontes pesquisadas que podem fornecer os dados necessários são:
+
+* **Project Gutenberg** — texto integral de *The Raven*;
+* **Internet Archive** — diferentes edições históricas da obra;
+* **Poetry Foundation** — informações e materiais relacionados ao poema;
+* **Google Books** — diferentes edições e traduções da obra;
+* **Kaggle** — conjuntos de dados relacionados a textos e obras literárias.
+
+Para este projeto, o **texto integral de *O Corvo*** será a principal fonte de dados, pois as informações necessárias para a análise serão extraídas diretamente do poema.
+
+---
+
+## Questões para Reflexão
+
+### 1. Por que é importante identificar a pergunta que precisa ser respondida pela análise antes de iniciar o projeto?
+
+É importante definir a pergunta antes de iniciar a análise porque ela determina quais dados deverão ser coletados e quais informações serão relevantes para o projeto. No caso de *O Corvo*, a definição da pergunta permite direcionar a coleta de dados para as ocorrências de “Nunca mais”, seus respectivos contextos e as palavras relacionadas aos sentimentos do narrador. Dessa forma, evita-se a coleta de informações desnecessárias e a análise permanece direcionada ao objetivo estabelecido.
+
+### 2. Cite algumas fontes de dados abertos para análise que você encontrou ao pesquisar os elementos de dados.
+
+Algumas fontes de dados que podem ser utilizadas são o **Project Gutenberg, Internet Archive, Poetry Foundation, Google Books e Kaggle**. Essas fontes disponibilizam textos literários e informações que podem auxiliar na identificação das ocorrências de “Nunca mais”, na análise de seu contexto e na identificação de palavras e expressões relacionadas ao estado emocional do narrador.
